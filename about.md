@@ -10,4 +10,4 @@ Put these together and you'll get my thoughts on how to build great teams that b
 
 ### Contact me
 
-[brentlanegold@gmail.com](mailto:brentlanegold@gmail.com
+[brentlanegold@gmail.com](mailto:brentlanegold@gmail.com)
