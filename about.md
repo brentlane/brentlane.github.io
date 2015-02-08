@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Brent Goldstein I've always built software (and other things) and had a deep interest in how people work together. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Put these together and you'll get my thoughts on how to build great teams that build great software products. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brentlanegold@gmail.com](mailto:brentlanegold@gmail.com
